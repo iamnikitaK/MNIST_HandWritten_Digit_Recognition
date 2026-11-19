@@ -124,7 +124,6 @@ CNNs are suitable for image classification because they learn spatial features s
 
 Computer Science Undergraduate
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
 
 ---
 
